@@ -1,0 +1,178 @@
+[
+    {
+        "producto_id": 1,
+        "codigo": "001",
+        "nombre": "Coca-Cola",
+        "categoria_id": 1,
+        "nombre_categoria": "Bebestibles",
+        "sucursal_id": 1,
+        "nombre_sucursal": "Lider",
+        "precio": 1500,
+        "cantidad": 10000
+    },
+    {
+        "producto_id": 1,
+        "codigo": "001",
+        "nombre": "Coca-Cola",
+        "categoria_id": 1,
+        "nombre_categoria": "Bebestibles",
+        "sucursal_id": 1,
+        "nombre_sucursal": "Unimarc",
+        "precio": 1200,
+        "cantidad": 5000
+    },
+    {
+        "producto_id": 2,
+        "codigo": "002",
+        "nombre": "Filete de Ternera",
+        "categoria_id": 2,
+        "nombre_categoria": "Carnes",
+        "sucursal_id": 2,
+        "nombre_sucursal": "Unimarc",
+        "precio": 5000,
+        "cantidad": 500
+    },
+    {
+        "producto_id": 3,
+        "codigo": "003",
+        "nombre": "Chocolate Snickers",
+        "categoria_id": 3,
+        "nombre_categoria": "Dulces",
+        "sucursal_id": 1,
+        "nombre_sucursal": "Lider",
+        "precio": 800,
+        "cantidad": 2000
+    },
+    {
+        "producto_id": 4,
+        "codigo": "004",
+        "nombre": "Porotos Negros",
+        "categoria_id": 4,
+        "nombre_categoria": "Legumbres",
+        "sucursal_id": 3,
+        "nombre_sucursal": "Jumbo",
+        "precio": 1200,
+        "cantidad": 150
+    },
+    {
+        "producto_id": 5,
+        "codigo": "005",
+        "nombre": "Agua Mineral",
+        "categoria_id": 1,
+        "nombre_categoria": "Bebestibles",
+        "sucursal_id": 2,
+        "nombre_sucursal": "Unimarc",
+        "precio": 500,
+        "cantidad": 3000
+    },
+    {
+        "producto_id": 6,
+        "codigo": "006",
+        "nombre": "Lomo de Cerdo",
+        "categoria_id": 2,
+        "nombre_categoria": "Carnes",
+        "sucursal_id": 1,
+        "nombre_sucursal": "Lider",
+        "precio": 4000,
+        "cantidad": 800
+    },
+    {
+        "producto_id": 7,
+        "codigo": "007",
+        "nombre": "Gomitas de Fruta",
+        "categoria_id": 3,
+        "nombre_categoria": "Dulces",
+        "sucursal_id": 3,
+        "nombre_sucursal": "Jumbo",
+        "precio": 600,
+        "cantidad": 250
+    },
+    {
+        "producto_id": 8,
+        "codigo": "008",
+        "nombre": "Garbanzos",
+        "categoria_id": 4,
+        "nombre_categoria": "Legumbres",
+        "sucursal_id": 2,
+        "nombre_sucursal": "Unimarc",
+        "precio": 900,
+        "cantidad": 189
+    },
+    {
+        "producto_id": 9,
+        "codigo": "009",
+        "nombre": "Sprite",
+        "categoria_id": 1,
+        "nombre_categoria": "Bebestibles",
+        "sucursal_id": 3,
+        "nombre_sucursal": "Jumbo",
+        "precio": 1400,
+        "cantidad": 310
+    },
+    {
+        "producto_id": 10,
+        "codigo": "010",
+        "nombre": "Filete de Pollo",
+        "categoria_id": 2,
+        "nombre_categoria": "Carnes",
+        "sucursal_id": 1,
+        "nombre_sucursal": "Lider",
+        "precio": 3500,
+        "cantidad": 600
+    },
+    {
+        "producto_id": 11,
+        "codigo": "011",
+        "nombre": "Paletas de Caramelo",
+        "categoria_id": 3,
+        "nombre_categoria": "Dulces",
+        "sucursal_id": 2,
+        "nombre_sucursal": "Unimarc",
+        "precio": 500,
+        "cantidad": 159
+    },
+    {
+        "producto_id": 12,
+        "codigo": "012",
+        "nombre": "Lentejas",
+        "categoria_id": 4,
+        "nombre_categoria": "Legumbres",
+        "sucursal_id": 3,
+        "nombre_sucursal": "Jumbo",
+        "precio": 1100,
+        "cantidad": 183
+    },
+    {
+        "producto_id": 13,
+        "codigo": "013",
+        "nombre": "Fanta",
+        "categoria_id": 1,
+        "nombre_categoria": "Bebestibles",
+        "sucursal_id": 1,
+        "nombre_sucursal": "Lider",
+        "precio": 1300,
+        "cantidad": 220
+    },
+    {
+        "producto_id": 14,
+        "codigo": "014",
+        "nombre": "Bistec de Res",
+        "categoria_id": 2,
+        "nombre_categoria": "Carnes",
+        "sucursal_id": 2,
+        "nombre_sucursal": "Unimarc",
+        "precio": 4500,
+        "cantidad": 320
+    },
+    {
+        "producto_id": 15,
+        "codigo": "015",
+        "nombre": "Chicles de Menta",
+        "categoria_id": 3,
+        "nombre_categoria": "Dulces",
+        "sucursal_id": 3,
+        "nombre_sucursal": "Jumbo",
+        "precio": 300,
+        "cantidad": 400
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "sucursal_id": 1,
+        "nombre_sucursal": "Lider",
+        "correlativo": "12545556",
+        "fecha": "2019-03-12 12:00:00",
+        "rutCliente": "1859666",
+        "total_venta": 9300,
+        "caja_id": 1,
+        "productosVenta": [
+            {
+                "producto_id": 1,
+                "cantidad": 5,
+                "precio": 1500,
+                "categoria_id": 1,
+                "nombre_categoria": "Bebestibles"
+            },
+            {
+                "producto_id": 3,
+                "cantidad": 1,
+                "precio": 800,
+                "categoria_id": 3,
+                "nombre_categoria": "Dulces"
+            }
+        ]
+          
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "cantidad_categorias": [
+        {
+            "categoria_id": 1,
+            "nombre": "categoria 1",
+            "cantidad": 500
+        },
+        {
+            "categoria_id": 2,
+            "nombre": "categoria 2",
+            "cantidad": 345
+        }
+    ],
+    "total_sucursales": [
+        {
+            "sucursal_id": 1,
+            "nombre": "Lider",
+            "cantidad": 46300
+        },
+        {
+            "sucursal_id": 2,
+            "nombre": "Unimarx",
+            "total_vendido": 42333
+        }
+    ]
+}

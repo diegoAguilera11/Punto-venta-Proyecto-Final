@@ -1,0 +1,17 @@
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.AssemblyInfo.cs
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Cajero\bin\Debug\net7.0\Cajero.exe
+C:\Users\diego\Desktop\Cajero\bin\Debug\net7.0\Cajero.deps.json
+C:\Users\diego\Desktop\Cajero\bin\Debug\net7.0\Cajero.runtimeconfig.json
+C:\Users\diego\Desktop\Cajero\bin\Debug\net7.0\Cajero.dll
+C:\Users\diego\Desktop\Cajero\bin\Debug\net7.0\Cajero.pdb
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.dll
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\refint\Cajero.dll
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.pdb
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.genruntimeconfig.cache
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\ref\Cajero.dll
+C:\Users\diego\Desktop\Cajero\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\Cajero\obj\Debug\net7.0\Cajero.csproj.CopyComplete
